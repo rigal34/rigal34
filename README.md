@@ -1,4 +1,4 @@
-#  Salut, je suis Bruno Rigal !
+#  Bonjour, je suis Bruno Rigal !
 
 ##  Développeur Web & Web Mobile en formation
 
