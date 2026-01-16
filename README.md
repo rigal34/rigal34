@@ -1,6 +1,6 @@
 #  Bonjour, je suis Bruno Rigal !
 
-##  Développeur Web & Web Mobile en formation
+## je suis diplômé en Développement Web & Web Mobile de l'université de Mulouse.
 
 Passionné par le développement web, je crée des applications avec des technologies modernes.
 
