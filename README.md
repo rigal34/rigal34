@@ -33,8 +33,8 @@ Passionné par le développement web, je crée des applications avec des technol
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 ![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
 
-### Design & Modélisation Frontend
-**React.js** ( projets dédiés) ⚛️
+### Design & Modélisation Frontend Conception
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![UML](https://img.shields.io/badge/UML-E43937?style=for-the-badge) ![MCD/MPD](https://img.shields.io/badge/MCD%20%2F%20MPD-44CC11?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![UML](https://img.shields.io/badge/-UML-FABD14?style=flat)
 ![Merise](https://img.shields.io/badge/-MCD/MPD-4A90E2?style=flat)
