@@ -93,18 +93,18 @@ Site statique créé avec WordPress
 
 ##  Me contacter
 
--  Portfolio AutoRent : [bit.ly/4nS1n1W](https://bit.ly/4nS1n1W)
+-  Portfolio 
 -  GitHub : [@rigal34](https://github.com/rigal34)
--  Localisation : Normandie, France
+-  Localisation : Montpellier, France
 
 ---
 
 ##  compétences
 
--  Obtenir le Titre Professionnel Développeur Web et Web Mobile
--  Maîtriser Symfony et l'architecture MVC
--  Concevoir des bases de données avec Merise
--  Contribuer à des projets open source
+-  Titre Professionnel Développeur Web et Web Mobile
+-  Maîtrise Symfony et l'architecture MVC
+-  Conçoit des bases de données avec Merise et autre
+-  Contribue à des projets open source
 -  gére React.js
 
 
