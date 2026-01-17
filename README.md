@@ -34,13 +34,13 @@ Passionné par le développement web, je crée des applications avec des technol
 ![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
 
 ### Design & Modélisation Frontend Conception
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UML](https://img.shields.io/badge/UML-007396?style=for-the-badge&logo=uml&logoColor=white)
-![MCD/MPD](https://img.shields.io/badge/MCD%20%2F%20MPD-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-607D8B?style=for-the-badge&logo=scrum&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-4CAF50?style=for-the-badge&logo=agile&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![UML](https://img.shields.io/badge/UML-007396?style=flat&logo=uml&logoColor=white)
+![MCD/MPD](https://img.shields.io/badge/MCD%20%2F%20MPD-4479A1?style=flat&logo=sqlite&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-607D8B?style=flat&logo=scrum&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-4CAF50?style=flat&logo=agile&logoColor=white)
 ---
 
 ##  Projets phares
