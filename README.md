@@ -97,9 +97,9 @@ Site statique créé avec WordPress
 
 ##  Me contacter
 
--  GitHub : [@rigal34](https://github.com/rigal34)
--  Localisation : Montpellier, France
--  Développeur Web & Web Mobile | rigalbruno30@gmail.com
+* **GitHub :** [@rigal34](https://github.com/rigal34)
+* **Localisation :** Montpellier, France
+* **Développeur Web & Web Mobile :** [rigalbruno30@gmail.com](mailto:rigalbruno30@gmail.com)
 
 ---
 
