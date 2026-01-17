@@ -38,12 +38,12 @@ Passionné par le développement web, je crée des applications avec des technol
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![UML](https://img.shields.io/badge/-UML-FABD14?style=flat)
 ![Merise](https://img.shields.io/badge/-MCD/MPD-4A90E2?style=flat)
-
+![Scrum](https://img.shields.io/badge/Scrum-607D8B?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-4CAF50?style=for-the-badge&logo=agile&logoColor=white)
 ---
 
 ##  Projets phares
 
-###  [AutoRent](https://bit.ly/4nS1n1W)
+###  [AutoRent]
 Application de location de véhicules développée avec Symfony
 - **Technologies :** Symfony 6, SQLite, Doctrine ORM, HTML, CSS, JavaScript
 - **Modélisation :** UML, MCD, MPD (conception de la base de données)
@@ -80,7 +80,9 @@ Site statique créé avec WordPress
 ### Design & Architecture
 -  Maquettage avec Figma
 -  Modélisation UML (diagrammes de classes, cas d'usage)
--  Méthode Merise (MCD, MLD, MPD)
+-  Méthode Merise (MCD, MLD, MPD)gestion de projet Agile/Scrum
+-  Pilotage : Création et gestion du Product Backlog, rédaction de User Stories.
+-  Outils : Gestion du flux de travail via Trello (tableaux Kanban).
 -  Architecture MVC
 
 ### Déploiement
@@ -96,6 +98,7 @@ Site statique créé avec WordPress
 -  Portfolio 
 -  GitHub : [@rigal34](https://github.com/rigal34)
 -  Localisation : Montpellier, France
+-  Développeur Web & Web Mobile | rigalbruno30@gmail.com
 
 ---
 
