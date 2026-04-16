@@ -68,8 +68,8 @@ Site statique créé avec WordPress
 ##  Compétences techniques
 
 ### Développement
--  Développement backend avec PHP et Symfony
--  Développement frontend responsive (HTML, CSS, Sass, Bootstrap)
+-  Développement back-end avec PHP et Symfony
+-  Développement front-end responsive (HTML, CSS, Sass, Bootstrap)
 -  Programmation orientée objet
 -  Gestion de versions avec Git/GitHub
 
